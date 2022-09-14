@@ -89,6 +89,8 @@ fun OwlBottomBar(navController: NavController, tabs: Array<CourseTabs>) {
                                 }
                                 launchSingleTop = true
                                 restoreState = true
+                                launchSingleTop = true
+                                restoreState = true
                             }
                         }
                     },
